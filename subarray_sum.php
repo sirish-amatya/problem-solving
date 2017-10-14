@@ -2,7 +2,7 @@
 
 /*
 For a given array $arr, finds the first contiguous subarray whose sum matches $sum
-If found, prints Found along with indexes else prints Not found. 
+If found, returns indexes else returns -1. 
 */
 function subarray_sum($arr, $sum)
 {
